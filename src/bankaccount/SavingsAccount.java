@@ -1,4 +1,6 @@
 package bankaccount;
+//Reviewed: All goods.
+//Reviewer: Manuel John Dalacan
 
 public class SavingsAccount extends AbstractBankAccount {
     /** The name of the account owner. */

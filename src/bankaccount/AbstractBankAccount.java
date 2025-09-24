@@ -1,4 +1,6 @@
 package bankaccount;
+//Reviewed: All goods.
+//Reviewer: Manuel John Dalacan
 
 public abstract class AbstractBankAccount implements BankAccount {
     /** The current balance of the account. */

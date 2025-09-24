@@ -1,4 +1,6 @@
 package bankaccount;
+//Reviewed: All goods.
+//Reviewer: Manuel John Dalacan
 
 public interface BankAccount {
     /** Deposits an amount to the account.
